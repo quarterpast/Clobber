@@ -1,0 +1,25 @@
+{
+  "name": "clobber",
+  "version": "0.0.0",
+  "description": "configurable static site generator",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quarterto/Clobber.git"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator",
+    "redo"
+  ],
+  "author": "Matt Brennan <mwrbrennan@gmail.com>",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/quarterto/Clobber/issues"
+  },
+  "homepage": "https://github.com/quarterto/Clobber"
+}
