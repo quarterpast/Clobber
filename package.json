@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/quarterto/Clobber/issues"
   },
-  "homepage": "https://github.com/quarterto/Clobber"
+  "homepage": "https://github.com/quarterto/Clobber",
+  "dependencies": {
+    "redo": "^0.1.1"
+  },
+  "devDependencies": {
+    "LiveScript": "^1.2.0"
+  }
 }
